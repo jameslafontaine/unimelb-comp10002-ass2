@@ -1,0 +1,13 @@
+#
+::D:d:
+::O:o:
+::U::d
+::N::o
+:abc:R:ab:
+::E::abc
+#
+DODODOUNDODODODODODOREDOREDODODOUNREDODO
+#
+DO
+#
+DO
